@@ -25,9 +25,4 @@
 I mastered HTML, CSS and Bootstrap features in this project. You can see the visual representation of the website above.
 
 ### Used in this project
-👉HTML tags, Bootstrap, Comments, CSS styling, Positioning,etc.
-
-### How to Use the Project
-+ First download a code editor
-+ Second open the files : [My Docs](https://github.com/SkyCooper/HogwartsWebpage)
-+ You can use this tutorial : [VS Code tutorial](https://www.youtube.com/watch?v=fJEbVCrEMSE)
+👉HTML tags, Javascript, CSS styling, Positioning,etc.
